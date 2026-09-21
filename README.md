@@ -42,3 +42,8 @@ Depois abra o app no Expo Go (Android/iOS) ou em um emulador.
 ## Identidade visual
 
 Fundo preto, superfícies cinza-escuro e destaque verde neon (`#8BF000`). As capas dos jogos são artes genéricas em gradiente — nenhuma arte oficial de Xbox ou de jogos comerciais é utilizada.
+
+
+
+
+Autor: Amanda Nick e Luana Zenha
