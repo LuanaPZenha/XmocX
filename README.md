@@ -1,4 +1,6 @@
 # XmocX
+Por Luana Zenha e Amanda Nick
+P1 Aplicativos Híbridos - Prof. Marcio Garrido
 
 Aplicativo mobile mockado de uma plataforma de games.
 
